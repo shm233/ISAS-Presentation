@@ -1,1 +1,1 @@
-**ISAS Installment Sales Automation System**
+*ISAS Installment Sales Automation System*
